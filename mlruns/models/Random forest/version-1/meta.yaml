@@ -1,0 +1,15 @@
+aliases: []
+creation_timestamp: 1742454962420
+current_stage: None
+description: ''
+last_updated_timestamp: 1742454962420
+name: Random forest
+run_id: 98f350fa9cd345968e093e74bd5f154a
+run_link: ''
+source: mlflow-artifacts:/0/98f350fa9cd345968e093e74bd5f154a/artifacts/Decesion tree
+status: READY
+status_message: null
+storage_location: mlflow-artifacts:/0/98f350fa9cd345968e093e74bd5f154a/artifacts/Decesion
+  tree
+user_id: null
+version: 1
