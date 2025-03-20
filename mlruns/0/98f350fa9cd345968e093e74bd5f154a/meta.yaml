@@ -1,8 +1,9 @@
 artifact_uri: mlflow-artifacts:/0/98f350fa9cd345968e093e74bd5f154a/artifacts
+deleted_time: 1742455454809
 end_time: 1742454937675
 entry_point_name: ''
 experiment_id: '0'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 98f350fa9cd345968e093e74bd5f154a
 run_name: nebulous-colt-778
 run_uuid: 98f350fa9cd345968e093e74bd5f154a

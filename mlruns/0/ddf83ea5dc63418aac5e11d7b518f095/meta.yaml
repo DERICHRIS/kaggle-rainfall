@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/ddf83ea5dc63418aac5e11d7b518f095/artifacts
+deleted_time: 1742455454810
+end_time: 1742455292890
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: ddf83ea5dc63418aac5e11d7b518f095
+run_name: illustrious-cat-765
+run_uuid: ddf83ea5dc63418aac5e11d7b518f095
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742455285701
+status: 3
+tags: []
+user_id: deric

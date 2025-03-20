@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/cfece12544c24cfa89d8d577cb0046f5/artifacts
+end_time: 1742455488757
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: cfece12544c24cfa89d8d577cb0046f5
+run_name: rebellious-stork-804
+run_uuid: cfece12544c24cfa89d8d577cb0046f5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742455482004
+status: 3
+tags: []
+user_id: deric

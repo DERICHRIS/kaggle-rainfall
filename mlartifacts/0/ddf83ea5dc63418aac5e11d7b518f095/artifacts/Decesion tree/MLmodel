@@ -1,0 +1,21 @@
+artifact_path: Decesion tree
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.11.9
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.6.1
+mlflow_version: 2.21.0
+model_size_bytes: 4088203
+model_uuid: a28cfe1f89744ad7a9d838faaadbb897
+prompts: null
+run_id: ddf83ea5dc63418aac5e11d7b518f095
+utc_time_created: '2025-03-20 07:21:27.239354'

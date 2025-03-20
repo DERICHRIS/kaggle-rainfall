@@ -35,7 +35,7 @@ with mlflow.start_run():
     mlflow.log_metric("mean square error",mse)
     mlflow.log_metric("r2",r2)
 
-    mlflow.sklearn.log_model(model,"Decesion tree")
+    mlflow.sklearn.log_model(model,"rf2")
 
     print(f"sme :{mse}")
     print(f"r2 : {r2}")

@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1742455616006
+current_stage: None
+description: ''
+last_updated_timestamp: 1742455616006
+name: rf
+run_id: 989d5acf1f864daf832192cd903dda2d
+run_link: ''
+source: mlflow-artifacts:/0/989d5acf1f864daf832192cd903dda2d/artifacts/rf2
+status: READY
+status_message: null
+storage_location: mlflow-artifacts:/0/989d5acf1f864daf832192cd903dda2d/artifacts/rf2
+user_id: null
+version: 2
