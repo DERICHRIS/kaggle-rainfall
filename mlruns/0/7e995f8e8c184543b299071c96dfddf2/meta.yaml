@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/7e995f8e8c184543b299071c96dfddf2/artifacts
+end_time: 1742454112717
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7e995f8e8c184543b299071c96dfddf2
+run_name: indecisive-hawk-339
+run_uuid: 7e995f8e8c184543b299071c96dfddf2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742454106669
+status: 3
+tags: []
+user_id: deric

@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1742454156549
+current_stage: None
+description: ''
+last_updated_timestamp: 1742454156549
+name: KNN
+run_id: 7e995f8e8c184543b299071c96dfddf2
+run_link: ''
+source: mlflow-artifacts:/0/7e995f8e8c184543b299071c96dfddf2/artifacts/KNN1
+status: READY
+status_message: null
+storage_location: mlflow-artifacts:/0/7e995f8e8c184543b299071c96dfddf2/artifacts/KNN1
+user_id: null
+version: 1
