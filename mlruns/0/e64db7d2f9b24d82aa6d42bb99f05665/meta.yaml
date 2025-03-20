@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/e64db7d2f9b24d82aa6d42bb99f05665/artifacts
+end_time: 1742462826759
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e64db7d2f9b24d82aa6d42bb99f05665
+run_name: peaceful-lamb-839
+run_uuid: e64db7d2f9b24d82aa6d42bb99f05665
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742462787381
+status: 3
+tags: []
+user_id: deric

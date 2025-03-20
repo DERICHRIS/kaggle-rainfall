@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/db57769642f44384bca9dc32c00a105c/artifacts
+deleted_time: 1742459537417
+end_time: 1742459477291
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: db57769642f44384bca9dc32c00a105c
+run_name: languid-mare-558
+run_uuid: db57769642f44384bca9dc32c00a105c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742459415127
+status: 3
+tags: []
+user_id: deric
