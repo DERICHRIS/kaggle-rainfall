@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/2d17cb0d912e46d585e5898de62234b7/artifacts
+end_time: 1742453355392
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2d17cb0d912e46d585e5898de62234b7
+run_name: auspicious-goose-330
+run_uuid: 2d17cb0d912e46d585e5898de62234b7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742453347382
+status: 3
+tags: []
+user_id: deric
