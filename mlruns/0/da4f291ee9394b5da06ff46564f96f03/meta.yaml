@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/da4f291ee9394b5da06ff46564f96f03/artifacts
+end_time: 1742457077621
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: da4f291ee9394b5da06ff46564f96f03
+run_name: honorable-foal-647
+run_uuid: da4f291ee9394b5da06ff46564f96f03
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742457038204
+status: 3
+tags: []
+user_id: deric
