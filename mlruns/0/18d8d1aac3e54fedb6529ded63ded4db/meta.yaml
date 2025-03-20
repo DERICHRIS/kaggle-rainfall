@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/18d8d1aac3e54fedb6529ded63ded4db/artifacts
+end_time: 1742457436225
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 18d8d1aac3e54fedb6529ded63ded4db
+run_name: orderly-yak-672
+run_uuid: 18d8d1aac3e54fedb6529ded63ded4db
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742457377886
+status: 3
+tags: []
+user_id: deric
