@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/0d38890436fd417ab2662fbc9cd0bba7/artifacts
+end_time: 1742459163844
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0d38890436fd417ab2662fbc9cd0bba7
+run_name: chill-midge-119
+run_uuid: 0d38890436fd417ab2662fbc9cd0bba7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742459105270
+status: 3
+tags: []
+user_id: deric

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/e69a3b3b1c074442a8f52c5ea124717f/artifacts
+end_time: 1742457884931
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e69a3b3b1c074442a8f52c5ea124717f
+run_name: wise-robin-58
+run_uuid: e69a3b3b1c074442a8f52c5ea124717f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742457823134
+status: 3
+tags: []
+user_id: deric

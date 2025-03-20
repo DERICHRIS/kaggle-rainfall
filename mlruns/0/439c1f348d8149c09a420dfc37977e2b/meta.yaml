@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/439c1f348d8149c09a420dfc37977e2b/artifacts
+end_time: 1742458252828
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 439c1f348d8149c09a420dfc37977e2b
+run_name: fortunate-robin-668
+run_uuid: 439c1f348d8149c09a420dfc37977e2b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742458222700
+status: 3
+tags: []
+user_id: deric

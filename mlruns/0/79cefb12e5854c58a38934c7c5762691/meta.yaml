@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/79cefb12e5854c58a38934c7c5762691/artifacts
+end_time: 1742458999400
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 79cefb12e5854c58a38934c7c5762691
+run_name: delightful-midge-524
+run_uuid: 79cefb12e5854c58a38934c7c5762691
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742458969725
+status: 3
+tags: []
+user_id: deric
