@@ -31,7 +31,7 @@ with mlflow.start_run():
     mse=mean_squared_error(y_test,y_pred)
     r2=r2_score(y_test,y_pred)
 
-    mlflow.log_param("model","KNN1")
+    mlflow.log_param("model","KNN2")
     mlflow.log_metric("mean square error",mse)
     mlflow.log_metric("r2",r2)
 
